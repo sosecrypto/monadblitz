@@ -1,3 +1,5 @@
+# monadblitz
+
 # TxRPG - Monad Dapp을 위한 Gamification SaaS 서비스
 
 ## 🎮 프로젝트 소개
@@ -24,8 +26,8 @@ TxRPG는 Monad 블록체인 Dapp을 위한 Gamification SaaS 서비스입니다.
 
 1. 저장소 클론
 ```bash
-git clone [your-repository-url]
-cd txrpg-monad-wallet
+git clone https://github.com/sosecrypto/monadblitz.git
+cd monadblitz
 ```
 
 2. 의존성 설치
@@ -68,7 +70,7 @@ npm run dev
 
 - **이벤트**: Monad 해커톤
 - **팀**: TxRPG Team
-- **프로젝트**: 블록체인 기반 RPG 게임
+- **프로젝트**: Monad Dapp을 위한 Gamification SaaS 서비스
 
 ## 📝 라이선스
 
@@ -85,4 +87,4 @@ MIT License
 ## 📞 연락처
 
 - 팀: TxRPG Team
-- 프로젝트 링크: [GitHub Repository URL] 
+- 프로젝트 링크: https://github.com/sosecrypto/monadblitz
