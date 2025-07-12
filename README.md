@@ -2,14 +2,16 @@
 
 ## 🎮 프로젝트 소개
 
-TxRPG는 Monad 블록체인 Dapp을 위한 Gamification SaaS 서비스입니다. 
+TxRPG는 Monad 블록체인 Dapp을 위한 Gamification SaaS 서비스입니다. Dapp 사용자들이 더욱 몰입감 있게 서비스를 이용할 수 있도록 게임화 요소를 제공합니다.
 
 ## ✨ 주요 기능
 
+- **지갑 연결**: Privy를 통한 안전한 Monad 지갑 연결
 - **캐릭터 커스터마이징**: 다양한 캐릭터와 몬스터 커스터마이징
 - **게임 시뮬레이션**: RPG 게임 플레이 시뮬레이션
-- **DeFi 통합**: DexSwap 및 Lending 기능 추적적
+- **DeFi 통합**: DexSwap 및 Lending 기능 추적
 - **보상 시스템**: XP 및 보상 관리
+- **SaaS 플랫폼**: 다양한 Dapp에 적용 가능한 게임화 솔루션
 
 ## 🚀 시작하기
 
